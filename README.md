@@ -1,2 +1,4 @@
 # PocketCHIP-STEM
-Education resources for PocketCHIP
+
+Educational resources for PocketC.H.I.P.
+
